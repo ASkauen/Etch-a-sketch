@@ -3,7 +3,7 @@
   height: 500px;
   width: 500px;
   margin: auto auto;
-  border: 1px solid black;
+  box-shadow: 0 0 6px 1px rgb(211, 211, 211);
 }
 
 #reset {
